@@ -1,6 +1,6 @@
 name              "shibboleth-sp"
-maintainer        "The Wharton School - The University of Pennsylvania"
-maintainer_email  "chef-admins@wharton.upenn.edu"
+maintainer        "Chris Modica"
+maintainer_email  "chrismodica@gmail.com"
 license           "Apache 2.0"
 description       "Installs/Configures Shibboleth Service Provider"
 version           "0.3.0"
